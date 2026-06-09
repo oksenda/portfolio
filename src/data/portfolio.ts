@@ -10,7 +10,7 @@ export const portfolioData: PortfolioData = {
     linkedin: 'https://linkedin.com/in/oksenda',
     github: 'https://github.com/oksenda',
     summary:
-      'Senior Backend and Platform Engineer with 3+ years of experience designing, securing, and operating enterprise-grade distributed systems. Specialized in Java (Spring Boot & Spring Security), Go, and .NET microservices, with proven ownership of system bootstrap, security architecture, data migration, and compliance standards. Track record of delivering national-scale enterprise projects for PLN Indonesia. Strong full-stack background (Laravel, React, Flutter) accelerates end-to-end problem solving. Open to remote opportunities.',
+      'Senior Backend and Platform Engineer with 3+ years of experience designing, securing, and operating enterprise-grade distributed systems. Specialized in Java (Spring Boot & Spring Security), Go, and .NET microservices, with proven ownership of system bootstrap, security architecture, data migration, and compliance standards. Track record of delivering national-scale enterprise projects. Strong full-stack background (Laravel, React, Flutter) accelerates end-to-end problem solving. Open to remote opportunities.',
     photo: '/kiki01.jpeg',
   },
   skills: [
