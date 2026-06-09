@@ -172,7 +172,7 @@ export const portfolioData: PortfolioData = {
       year: '2023',
       description:
         'IoT motorcycle anti-theft system using GPS + Raspberry Pi integrated with an Android app; detects theft via key contact, vibration, and position analysis. Budget: IDR 8M.',
-      tech: ['Raspberry Pi', 'IoT', 'Android', 'GPS'],
+      tech: ['Raspberry Pi', 'IoT', 'Android', 'GPS'], 
     },
   ],
   education: {
